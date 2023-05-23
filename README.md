@@ -30,8 +30,11 @@
 - Perceptron is a function that maps its input “x,” which is multiplied with the learned weight coefficient; an output value "f(x)" is generated.
  ![image](https://github.com/Siddhipatade/MP-neuron-and-perceptron-model/assets/91780318/1fb0a59b-b640-476d-a18e-f848373bf65c)
 - In the equation given above:
+
 "w" = vector of real-valued weights
+
 "b" = bias (an element that adjusts the boundary away from origin without any dependence on the input value)
+
 "x" = vector of input x values
 
 ![image](https://github.com/Siddhipatade/MP-neuron-and-perceptron-model/assets/91780318/3198a71a-b622-4458-a163-fc12a6fde3b7)
