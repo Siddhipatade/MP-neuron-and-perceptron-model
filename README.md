@@ -13,3 +13,4 @@
 -Excitatory inputs are NOT the ones that will make the neuron fire on their own but they might fire it when combined together. 
 
 
+
